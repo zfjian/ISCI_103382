@@ -1,0 +1,21 @@
+Pathway	Number	richFactor	Pvalue
+Leishmaniasis	2	0.333333333	2.28993E-05
+Glycerophospholipid metabolism	3	0.057692308	2.75005E-05
+Choline metabolism in cancer	2	0.181818182	8.37319E-05
+Insulin resistance	2	0.105263158	0.000259178
+Systemic lupus erythematosus	1	0.333333333	0.004143641
+Neurotrophin signaling pathway	1	0.2	0.006898429
+Adipocytokine signaling pathway	1	0.142857143	0.009647118
+AGE-RAGE signaling pathway in diabetic complications	1	0.111111111	0.012389717
+Necroptosis	1	0.1	0.013758736
+Cholesterol metabolism	1	0.1	0.013758736
+Fat digestion and absorption	1	0.076923077	0.017856686
+Amoebiasis	1	0.076923077	0.017856686
+Regulation of lipolysis in adipocytes	1	0.071428571	0.019219638
+Sphingolipid signaling pathway	1	0.066666667	0.020581077
+Retrograde endocannabinoid signaling	1	0.052631579	0.026011721
+Thermogenesis	1	0.043478261	0.031418249
+Sphingolipid metabolism	1	0.04	0.034112494
+Linoleic acid metabolism	1	0.035714286	0.038142618
+Glycerolipid metabolism	1	0.026315789	0.051479316
+Vitamin digestion and absorption	1	0.025641026	0.052804806
